@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TBeam 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "TBeam 1.2"
             }
           }
         ],
@@ -235,20 +235,20 @@
   },
   "active": "dd24c624b92d61ae",
   "lastOpenFiles": [
+    "Transmisor LORA.md",
     "TBeam 1.2.md",
     "README.md",
+    "Securizar MQTT.md",
     "assets/v1-2_1.png",
     "assets/v1-2_1.png.crdownload",
     "assets/LILYGO-TTGO-ESP32-LORA.jpg",
     "assets/LILYGO-TTGO-ESP32-LORA.jpg.crdownload",
-    "Transmisor LORA.md",
     "assets/astromoon2.jpeg",
     "codigo/RXLoRA.ino",
     "codigo/TXLoRa.ino",
     "codigo",
     "sonda3.0/LICENSE",
     "sonda3.0",
-    "Securizar MQTT.md",
     "Securizar Grafana.md",
     "Receptor LORA.md",
     "Arquitectura servidors.canvas",
