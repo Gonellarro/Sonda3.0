@@ -1,4 +1,5 @@
 ![tbeam](assets/LILYGO-TTGO-ESP32-LORA.jpg)
+# TBeam v1.2
 
 El TBeam 1.2 es un dispositivo de desarrollo basado en el microcontrolador ESP32, que se ha diseñado para aplicaciones de Internet de las Cosas (IoT) y comunicaciones de larga distancia. Este módulo combina múltiples funcionalidades, incluyendo conectividad LoRa, GPS y capacidades de conexión Wi-Fi, lo que lo hace ideal para proyectos que requieren la transmisión de datos a largas distancias y la localización precisa.
 
