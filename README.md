@@ -38,7 +38,7 @@ Este tipo de experimentos también se sitúa en la intersección entre la cienci
 **1. Diseño de la sonda:**
 La sonda está equipada con:
 - **Cámaras** para grabar videos durante la misión.
-- **[TBeam 1.2](TBeam%201.2.md) con GPS y LoRa para enviar la ubicación y datos meteorológicos en tiempo real.
+- **[TBeam 1.2](TBeam%201.2.md)** con GPS y LoRa para enviar la ubicación y datos meteorológicos en tiempo real.
 - **Móvil**, que transmite la ubicación de la sonda de dos formas:
   - A través de **MQTT** hacia un servidor para su procesamiento y visualización.
   - Utilizando el sistema de seguimiento de posición de **WhatsApp** para una segunda vía de rastreo.
