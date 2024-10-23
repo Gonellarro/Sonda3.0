@@ -1,4 +1,4 @@
-![[assets/astromoon.jpeg]]
+![top](assets/astromoon.jpeg)
 # README - SONDA METEREOLÓGICA
 ---
 Este documento describe cómo llevar a cabo el lanzamiento de una sonda meteorológica de bajo costo utilizando un globo de helio, con el fin de registrar y monitorizar en tiempo real variables como la posición, temperatura y presión atmosférica, además de grabar imágenes durante su ascenso y descenso. El sistema incluye el uso de tecnologías como LoRa y MQTT para la transmisión de datos, y ofrece dos métodos de seguimiento: uno mediante un servidor en la nube con visualización en Grafana y otro a través del sistema de seguimiento de WhatsApp. Se detalla la infraestructura necesaria, incluyendo la configuración de servidores en máquinas virtuales con Ubuntu Server 24.04.
