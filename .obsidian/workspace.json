@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "77f0752ae8e3ee14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8575cc0cc8f29f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db033d4d1092c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Securizar MQTT.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Securizar MQTT"
+            }
+          },
+          {
+            "id": "647c42826524de0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transmisor LORA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmisor LORA"
+            }
+          },
+          {
+            "id": "88e05c52aa191906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Receptor LORA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Receptor LORA"
+            }
+          },
+          {
+            "id": "9adce44417dddccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Securizar MQTT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Securizar MQTT"
+            }
+          },
+          {
+            "id": "bbc33de6219680a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transmisor LORA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmisor LORA"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f33ce41ec8856b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "571c20aad386c67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "124ca6b8455a7361",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c09f329e1a3ee795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "487d9e86d9b715b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1f181807b7a043c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08af381f7e40b3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d034d6c419230ffe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Securizar MQTT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Securizar MQTT"
+            }
+          },
+          {
+            "id": "7369c77fa32aaa1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Securizar MQTT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Securizar MQTT"
+            }
+          },
+          {
+            "id": "d2b5eaf5535f00ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b4a3c76258ed556d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Securizar MQTT.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Securizar MQTT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bbc33de6219680a0",
+  "lastOpenFiles": [
+    "sonda3.0/LICENSE",
+    "sonda3.0",
+    "Securizar MQTT.md",
+    "Securizar Grafana.md",
+    "Receptor LORA.md",
+    "README.md",
+    "Arquitectura servidors.canvas",
+    "assets/astromoon.jpeg",
+    "Transmisor LORA.md",
+    "assets/2211.w026.n002.2792B.p1.2792.jpg",
+    "assets/spaceballon.png",
+    "assets",
+    "2211.w026.n002.2792B.p1.2792.jpg"
+  ]
+}
