@@ -221,6 +221,9 @@
   },
   "active": "bbc33de6219680a0",
   "lastOpenFiles": [
+    "codigo/RXLoRA.ino",
+    "codigo/TXLoRa.ino",
+    "codigo",
     "sonda3.0/LICENSE",
     "sonda3.0",
     "Securizar MQTT.md",
