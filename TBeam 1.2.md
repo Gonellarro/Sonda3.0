@@ -1,3 +1,5 @@
+![tbeam](assets/LILYGO-TTGO-ESP32-LORA.jpg)
+
 El TBeam 1.2 es un dispositivo de desarrollo basado en el microcontrolador ESP32, que se ha diseñado para aplicaciones de Internet de las Cosas (IoT) y comunicaciones de larga distancia. Este módulo combina múltiples funcionalidades, incluyendo conectividad LoRa, GPS y capacidades de conexión Wi-Fi, lo que lo hace ideal para proyectos que requieren la transmisión de datos a largas distancias y la localización precisa.
 
 ### Características principales:
@@ -14,12 +16,9 @@ El TBeam 1.2 es un dispositivo de desarrollo basado en el microcontrolador ESP32
 ---
 ## Diagramas
 
-![tbeam](assets/LILYGO-TTGO-ESP32-LORA.jpg)
-
 ![esquema](assets/v1-2_1.png)
 
 ---
-
 ## Incremento de la señal
 
 Incrementar la señal del módulo LoRa en el TBeam 1.2 puede mejorar significativamente el alcance y la fiabilidad de las comunicaciones.Estas son algunas estrategias efectivas para lograrlo:
@@ -41,10 +40,11 @@ Incrementar la señal del módulo LoRa en el TBeam 1.2 puede mejorar significati
 	- **Ajustar la Potencia de Transmisión**: 
 	  - La mayoría de las bibliotecas de LoRa permiten configurar la potencia de transmisión. Esta potencia se mide en dBm (decibelios respecto a un milivatio).
 	  - En el código, puedes establecer la potencia usando una función como `LoRa.setTxPower()`. Por ejemplo:
-	    
+	
     ```cpp
     LoRa.setTxPower(20); // Potencia máxima de 20 dBm
     ```
+	
 	  - Ten en cuenta que el aumento de la potencia de transmisión puede aumentar el rango, pero también incrementa el consumo de energía y puede violar regulaciones locales, así que asegúrate de mantenerte dentro de los límites legales permitidos en tu región.
 
 	#### b. Ancho de Banda
@@ -52,7 +52,7 @@ Incrementar la señal del módulo LoRa en el TBeam 1.2 puede mejorar significati
 	- **Configuración del Ancho de Banda**:
 	  - El ancho de banda determina la cantidad de datos que se pueden transmitir en un tiempo determinado y afecta tanto la tasa de transmisión como el alcance. Un ancho de banda más bajo puede mejorar el rango, pero también reduce la velocidad de datos.
 	  - Para establecer el ancho de banda, puedes usar una función como `LoRa.setSpreadingFactor()`, por ejemplo:
-	  - 
+	  
     ```cpp
     LoRa.setSpreadingFactor(12); // Mayor factor de esparcimiento, mejor alcance
     ```
@@ -66,7 +66,7 @@ Incrementar la señal del módulo LoRa en el TBeam 1.2 puede mejorar significati
 	  - Considera agregar un tiempo de espera antes de enviar nuevos paquetes:
 	
     ```cpp
-    delay(1000); // Esperar un segundo entre envíos
+   delay(1000); // Esperar un segundo entre envíos
     ```
 
 	#### d. Implementación de Retransmisiones
